@@ -1,7 +1,7 @@
 # dio-modelo-conceitual-ordem-de-serviço
 ## este projeto descreve o modelo conceitual de um sistema para gerenciar ordens de serviço, com foco em produtos, fornecedores e estoque. 
 
-### Descrição do Projeto Conceitual
+### Descrição do Projeto Conceitual de um e-commerce.
  - O esquema conceitual apresentado é composto pelas seguintes entidades, atributos e relacionamentos:
 
 **Entidades:**
