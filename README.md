@@ -1,6 +1,6 @@
 # dio-modelo-conceitual-ordem-de-serviço
 ## este projeto descreve o modelo lógico de um sistema para gerenciar ordens de serviço, com foco em produtos, fornecedores e estoque.
-- o script SQL <https://github.com/dbengp/dio-modelo-conceitual-ordem-de-servico/blob/8a7a16b5b564097a6a0ced43aa7b7c4651bf3d55/modelo-logico/bd_ordem_de_servico.sql> cria a estrutura lógica do banco de dados no PostgreSQL, refletindo o modelo conceitual fornecido. Para outros SGBDs, pequenas adaptações na sintaxe (principalmente em relação ao SERIAL e ao ENUM) podem ser necessárias.
+ - o script SQL <https://github.com/dbengp/dio-modelo-conceitual-ordem-de-servico/blob/8a7a16b5b564097a6a0ced43aa7b7c4651bf3d55/modelo-logico/bd_ordem_de_servico.sql> cria a estrutura lógica do banco de dados no PostgreSQL, refletindo o modelo conceitual fornecido. Para outros SGBDs, pequenas adaptações na sintaxe (principalmente em relação ao SERIAL e ao ENUM) podem ser necessárias.
 
 ## Descrição do projeto lógico:
 ### SGBD Escolhido: 
